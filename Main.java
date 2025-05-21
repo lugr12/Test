@@ -16,6 +16,6 @@ public class Main
         System.out.println("Mult = " + mult);
         
         //Master/Feature Update 1
-        //Master Update 2
+        //Master/Feature Update 2
     }
 }
